@@ -7,4 +7,6 @@
 - dotnet new sln
 
 # create Post Command Project
-- 
+- cd SM-POST
+- cd Post.Cmd
+- dotnet new webapi -o Post.Cmd.Api
