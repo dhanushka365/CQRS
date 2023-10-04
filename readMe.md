@@ -38,4 +38,8 @@
 - cd Post.Query
 - dotnet new classlib -o Post.Query.Infrastructure
 
+# add all projects into solution file
+- cd SM-POST
+- dotnet sln add ../CQRS-ES/CQRS.Core/CQRS.Core.csproj
+
 
