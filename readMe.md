@@ -17,6 +17,12 @@
 - dotnet new classlib -o Post.Cmd.Domain
 
 
+# craete the Infrastructure Layer for Post.Command Microservice
+- cd SM-POST
+- cd Post.Cmd
+- dotnet new classlib -o Post.Cmd.Infrastructure
+
+
 # create the project APi Layer for Post Query Project
 - cd SM-POST
 - cd Post.Query
