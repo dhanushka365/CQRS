@@ -38,8 +38,18 @@
 - cd Post.Query
 - dotnet new classlib -o Post.Query.Infrastructure
 
-# add all projects into solution file
+# add CQRS.Core projects into solution file
 - cd SM-POST
 - dotnet sln add ../CQRS-ES/CQRS.Core/CQRS.Core.csproj
 
+# add Post.cmd.APi project into solution file
+- cd SM-POST
+- dotnet sln add Post.Cmd/Post.Cmd.Api/Post.cmd.Api.csproj
 
+# add Post.cmd.Domain project into solution file
+- cd SM-POST
+- dotnet sln add Post.Cmd/Post.Cmd.Domain/Post.cmd.Domain.csproj
+
+# add Post.cmd.Infrastructure project into solution file
+- cd SM-POST
+- dotnet sln add Post.Cmd/Post.Cmd.Infrastructure/Post.cmd.Infrastructure.csproj
