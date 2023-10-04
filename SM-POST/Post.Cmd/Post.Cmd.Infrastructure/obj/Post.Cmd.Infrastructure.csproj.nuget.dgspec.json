@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {}
+    "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.cmd.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+    "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.cmd.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
-        "projectName": "Post.Cmd.Infrastructure",
-        "projectPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.cmd.Infrastructure.csproj",
+        "projectName": "Post.cmd.Infrastructure",
+        "projectPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.cmd.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\PasinduUduwela\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
