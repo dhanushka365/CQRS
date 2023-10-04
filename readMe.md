@@ -44,12 +44,20 @@
 
 # add Post.cmd.APi project into solution file
 - cd SM-POST
-- dotnet sln add Post.Cmd/Post.Cmd.Api/Post.cmd.Api.csproj
+- dotnet sln add Post.Cmd/Post.Cmd.Api/Post.Cmd.Api.csproj
 
 # add Post.cmd.Domain project into solution file
 - cd SM-POST
-- dotnet sln add Post.Cmd/Post.Cmd.Domain/Post.cmd.Domain.csproj
+- dotnet sln add Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj
 
 # add Post.cmd.Infrastructure project into solution file
 - cd SM-POST
 - dotnet sln add Post.Cmd/Post.Cmd.Infrastructure/Post.cmd.Infrastructure.csproj
+
+# add Post.Query.APi project into solution file
+- cd SM-POST
+- dotnet sln add Post.Query/Post.Query.Api/Post.Query.Api.csproj
+
+# add Post.Query.Domain project into solution file
+- cd SM-POST
+- dotnet sln add Post.Query/Post.Query.Domain/Post.Query.Domain.csproj
