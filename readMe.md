@@ -61,3 +61,7 @@
 # add Post.Query.Domain project into solution file
 - cd SM-POST
 - dotnet sln add Post.Query/Post.Query.Domain/Post.Query.Domain.csproj
+
+# add Post.cmd.Infrastructure project into solution file
+- cd SM-POST
+- dotnet sln add Post.Query/Post.Query.Infrastructure/Post.Query.Infrastructure.csproj
