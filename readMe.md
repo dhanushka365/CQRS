@@ -1,8 +1,8 @@
-## create the project the Core Layer
+### create the project the Core Layer
 - cd CQRS-ES
 - dotnet new classlib -o CQRS.Core
 
-## create the project Solution file
+### create the project Solution file
 - cd SM-POST
 - dotnet new sln
 
@@ -15,6 +15,8 @@
 - cd SM-POST
 - cd Post.Cmd
 - dotnet new classlib -o Post.Cmd.Domain
+
+## 
 
 
 ## craete the Infrastructure Layer for Post.Cmd Microservice
@@ -65,3 +67,6 @@
 ## add Post.cmd.Infrastructure project into solution file
 - cd SM-POST
 - dotnet sln add Post.Query/Post.Query.Infrastructure/Post.Query.Infrastructure.csproj
+
+### create the Post.Common Project
+- dotnet new classlib -o
