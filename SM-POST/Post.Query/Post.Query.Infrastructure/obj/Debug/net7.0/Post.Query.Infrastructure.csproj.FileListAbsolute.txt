@@ -1,0 +1,11 @@
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Infrastructure\bin\Debug\net7.0\Post.Query.Infrastructure.deps.json
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Infrastructure\bin\Debug\net7.0\Post.Query.Infrastructure.dll
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Infrastructure\bin\Debug\net7.0\Post.Query.Infrastructure.pdb
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Infrastructure\obj\Debug\net7.0\Post.Query.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Infrastructure\obj\Debug\net7.0\Post.Query.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Infrastructure\obj\Debug\net7.0\Post.Query.Infrastructure.AssemblyInfo.cs
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Infrastructure\obj\Debug\net7.0\Post.Query.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Infrastructure\obj\Debug\net7.0\Post.Query.Infrastructure.dll
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Infrastructure\obj\Debug\net7.0\refint\Post.Query.Infrastructure.dll
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Infrastructure\obj\Debug\net7.0\Post.Query.Infrastructure.pdb
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Infrastructure\obj\Debug\net7.0\ref\Post.Query.Infrastructure.dll

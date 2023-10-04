@@ -1,0 +1,11 @@
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net7.0\Post.cmd.Infrastructure.deps.json
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net7.0\Post.cmd.Infrastructure.dll
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net7.0\Post.cmd.Infrastructure.pdb
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net7.0\Post.cmd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net7.0\Post.cmd.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net7.0\Post.cmd.Infrastructure.AssemblyInfo.cs
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net7.0\Post.cmd.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net7.0\Post.cmd.Infrastructure.dll
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net7.0\refint\Post.cmd.Infrastructure.dll
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net7.0\Post.cmd.Infrastructure.pdb
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net7.0\ref\Post.cmd.Infrastructure.dll

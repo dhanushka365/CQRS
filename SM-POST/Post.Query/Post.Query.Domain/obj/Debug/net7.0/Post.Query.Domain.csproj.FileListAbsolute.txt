@@ -1,0 +1,11 @@
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Query.Domain.deps.json
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Query.Domain.dll
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Query.Domain.pdb
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.AssemblyInfoInputs.cache
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.AssemblyInfo.cs
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.dll
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Domain\obj\Debug\net7.0\refint\Post.Query.Domain.dll
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.pdb
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Query\Post.Query.Domain\obj\Debug\net7.0\ref\Post.Query.Domain.dll
