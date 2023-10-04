@@ -1,67 +1,67 @@
-# create the project the Core Layer
+## create the project the Core Layer
 - cd CQRS-ES
 - dotnet new classlib -o CQRS.Core
 
-# create the project Solution file
+## create the project Solution file
 - cd SM-POST
 - dotnet new sln
 
-# create the project APi Layer for Post.Cmd Microservice
+## create the project APi Layer for Post.Cmd Microservice
 - cd SM-POST
 - cd Post.Cmd
 - dotnet new webapi -o Post.Cmd.Api
 
-# create the projet Domain Layer for Post.Cmd Microservice
+## create the projet Domain Layer for Post.Cmd Microservice
 - cd SM-POST
 - cd Post.Cmd
 - dotnet new classlib -o Post.Cmd.Domain
 
 
-# craete the Infrastructure Layer for Post.Cmd Microservice
+## craete the Infrastructure Layer for Post.Cmd Microservice
 - cd SM-POST
 - cd Post.Cmd
 - dotnet new classlib -o Post.Cmd.Infrastructure
 
 
-# create the project APi Layer for Post.Query Microservice
+## create the project APi Layer for Post.Query Microservice
 - cd SM-POST
 - cd Post.Query
 - dotnet new webapi -o Post.Query.Api
 
-# create the project Domain Layer for Post.Query Microservice
+## create the project Domain Layer for Post.Query Microservice
 - cd SM-POST
 - cd Post.Query
 - dotnet new classlib -o Post.Query.Domain
 
-# craete the Infrastructure Layer for Post.Query Microservice
+## craete the Infrastructure Layer for Post.Query Microservice
 - cd SM-POST
 - cd Post.Query
 - dotnet new classlib -o Post.Query.Infrastructure
 
-# add CQRS.Core projects into solution file
+## add CQRS.Core projects into solution file
 - cd SM-POST
 - dotnet sln add ../CQRS-ES/CQRS.Core/CQRS.Core.csproj
 
-# add Post.cmd.APi project into solution file
+## add Post.cmd.APi project into solution file
 - cd SM-POST
 - dotnet sln add Post.Cmd/Post.Cmd.Api/Post.Cmd.Api.csproj
 
-# add Post.cmd.Domain project into solution file
+## add Post.cmd.Domain project into solution file
 - cd SM-POST
 - dotnet sln add Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj
 
-# add Post.cmd.Infrastructure project into solution file
+## add Post.cmd.Infrastructure project into solution file
 - cd SM-POST
 - dotnet sln add Post.Cmd/Post.Cmd.Infrastructure/Post.cmd.Infrastructure.csproj
 
-# add Post.Query.APi project into solution file
+## add Post.Query.APi project into solution file
 - cd SM-POST
 - dotnet sln add Post.Query/Post.Query.Api/Post.Query.Api.csproj
 
-# add Post.Query.Domain project into solution file
+## add Post.Query.Domain project into solution file
 - cd SM-POST
 - dotnet sln add Post.Query/Post.Query.Domain/Post.Query.Domain.csproj
 
-# add Post.cmd.Infrastructure project into solution file
+## add Post.cmd.Infrastructure project into solution file
 - cd SM-POST
 - dotnet sln add Post.Query/Post.Query.Infrastructure/Post.Query.Infrastructure.csproj
