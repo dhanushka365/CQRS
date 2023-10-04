@@ -27,4 +27,9 @@
 - cd Post.Query
 - dotnet new classlib -o Post.Query.Domain
 
+# craete the Infrastructure Layer for Post.Query Microservice
+- cd SM-POST
+- cd Post.Query
+- dotnet new classlib -o Post.Query.Infrastructure
+
 
