@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "b6Oom7w9Tok+eKWlDSreZl7S+rVmDniQ8c6s4tSxfQevRb0yYjQSBg+OlcIeM9BcfuW0Ozl+4xD2Y392HKL83g==",
+  "dgSpecHash": "Pphth+9FEvXNiPdtSTOZVLao6PXShaxAWseskknnFyZzCOBb4Chbm6LPbaByz7RXplAZ0DgwBckjRa7Bs4gBmg==",
   "success": true,
   "projectFilePath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.cmd.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
+    "C:\\Users\\PasinduUduwela\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\PasinduUduwela\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
