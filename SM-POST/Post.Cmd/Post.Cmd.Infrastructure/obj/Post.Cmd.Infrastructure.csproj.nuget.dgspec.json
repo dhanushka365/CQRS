@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.cmd.Infrastructure.csproj": {}
+    "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {}
   },
   "projects": {
     "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
@@ -18,15 +18,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,12 +37,12 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.21.0, )"
+              "version": "[2.16.1, )"
             }
           },
           "imports": [
@@ -79,15 +79,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
               "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
                 "projectPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
@@ -105,8 +105,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -127,12 +127,12 @@
         }
       }
     },
-    "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.cmd.Infrastructure.csproj": {
+    "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.cmd.Infrastructure.csproj",
-        "projectName": "Post.cmd.Infrastructure",
-        "projectPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.cmd.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+        "projectName": "Post.Cmd.Infrastructure",
+        "projectPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\PasinduUduwela\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
@@ -141,15 +141,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
               "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
                 "projectPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
@@ -167,20 +167,20 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Confluent.Kafka": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[1.9.0, )"
             },
             "Microsoft.Extensions.Options": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[6.0.0, )"
             },
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.21.0, )"
+              "version": "[2.16.1, )"
             }
           },
           "imports": [
@@ -217,16 +217,20 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {}
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -236,8 +240,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
