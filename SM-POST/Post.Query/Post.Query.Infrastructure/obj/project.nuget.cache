@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uKaIe5r/k2wlRNvabHTWbY5ckhRu2hlH4thCgS20cfUGodKnTzgyd5uJWY597VdAsC1vtnTuIrFv+dSoBUVMVg==",
+  "dgSpecHash": "PBF6LhNxWlm1/RbeeQtqVcSDHmwSYnZAHhTMeQsylrw7ABpL94XIKMCpo3M2SdmT5GjYZNasKBYLFPTQa6DE+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,9 @@
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\PasinduUduwela\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\PasinduUduwela\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
