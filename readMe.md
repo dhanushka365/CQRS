@@ -66,4 +66,5 @@
 - dotnet sln add Post.Query/Post.Query.Infrastructure/Post.Query.Infrastructure.csproj
 
 ### create the Post.Common Project
-- dotnet new classlib -o
+- cd SM-POST
+- dotnet new classlib -o Post.Common
