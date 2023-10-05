@@ -117,6 +117,39 @@
         "runtime": {
           "bin/placeholder/CQRS.Core.dll": {}
         }
+      },
+      "Post.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CQRS.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Post.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Post.Common.dll": {}
+        }
+      },
+      "Post.Query.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Post.Query.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Post.Query.Domain.dll": {}
+        }
+      },
+      "Post.Query.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Post.Query.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Post.Query.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -475,12 +508,30 @@
       "type": "project",
       "path": "../../../CQRS-ES/CQRS.Core/CQRS.Core.csproj",
       "msbuildProject": "../../../CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+    },
+    "Post.Common/1.0.0": {
+      "type": "project",
+      "path": "../../Post.Common/Post.Common.csproj",
+      "msbuildProject": "../../Post.Common/Post.Common.csproj"
+    },
+    "Post.Query.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Post.Query.Domain/Post.Query.Domain.csproj",
+      "msbuildProject": "../Post.Query.Domain/Post.Query.Domain.csproj"
+    },
+    "Post.Query.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Post.Query.Infrastructure/Post.Query.Infrastructure.csproj",
+      "msbuildProject": "../Post.Query.Infrastructure/Post.Query.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "CQRS.Core >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.10",
+      "Post.Common >= 1.0.0",
+      "Post.Query.Domain >= 1.0.0",
+      "Post.Query.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -513,6 +564,15 @@
           "projectReferences": {
             "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
               "projectPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+            },
+            "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Common\\Post.Common.csproj": {
+              "projectPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Common\\Post.Common.csproj"
+            },
+            "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
+              "projectPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj"
+            },
+            "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj"
             }
           }
         }
