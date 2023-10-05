@@ -1,10 +1,16 @@
 C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\Post.Cmd.Domain.deps.json
 C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\Post.Cmd.Domain.dll
 C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\Post.Cmd.Domain.pdb
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\CQRS.Core.dll
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\Post.Common.dll
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\CQRS.Core.pdb
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\Post.Common.pdb
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.csproj.AssemblyReference.cache
 C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.AssemblyInfoInputs.cache
 C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.AssemblyInfo.cs
 C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.csproj.CopyComplete
 C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.dll
 C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\refint\Post.Cmd.Domain.dll
 C:\Users\PasinduUduwela\Desktop\CQRS\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.pdb
