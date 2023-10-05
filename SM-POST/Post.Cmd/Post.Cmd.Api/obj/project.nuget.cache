@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lQMKQ2Va4d+Sj2TtcQUEqATSqZshTWbyAik0kwT0zW4wpQWYmuUW6uwfHqM0YSok37XpRYIvBPQFhls0gY867Q==",
+  "dgSpecHash": "lz4FCuebtBshIp4s2CYucSFHNfHphgkEcevw0yFmuXNr9H5MtXhyyYXoTmHtswto/1ugfD3zY7PF7FyBxDAA/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,10 @@
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",

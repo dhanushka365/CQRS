@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Pphth+9FEvXNiPdtSTOZVLao6PXShaxAWseskknnFyZzCOBb4Chbm6LPbaByz7RXplAZ0DgwBckjRa7Bs4gBmg==",
+  "dgSpecHash": "cvjzkUP3+5+mN5oANSr7Oc42tKUlLTsVG1VFN6wyN6PVAnUTXTobV+U00lqql24nnNKt3b9i9fYYSw4ocH26Gw==",
   "success": true,
   "projectFilePath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.cmd.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,10 @@
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\mongodb.bson\\2.21.0\\mongodb.bson.2.21.0.nupkg.sha512",
