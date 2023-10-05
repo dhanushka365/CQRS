@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "CQRS.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CQRS.Core/1.0.0": {
+      "type": "project",
+      "path": "../../CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+      "msbuildProject": "../../CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "CQRS.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\PasinduUduwela\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+              "projectPath": "C:\\Users\\PasinduUduwela\\Desktop\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
